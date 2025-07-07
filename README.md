@@ -1,21 +1,20 @@
-# Homomorphic Voting System 🗳️
+Homomorphic Voting System 🗳️
 
 A secure online voting system using homomorphic encryption.
 
-## 🔐 Features
+🔐 Features
 - Ensures privacy and integrity
 - Flask-based frontend
 - End-to-end encrypted vote processing
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 - Python
 - Flask
 - Cryptography
 
-## 🚀 Run Locally
+🚀 Run Locally
 1. Clone the repo  
 2. Install requirements  
 3. Run `app.py`
 
-## 📷 Screenshots
-(Add screenshots if available)
+
